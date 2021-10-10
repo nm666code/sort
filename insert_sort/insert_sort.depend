@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633779335 source:c:\users\norman\c_code\insert_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1633801150 source:c:\users\norman\desktop\sort_hw\insert_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<set>
+
